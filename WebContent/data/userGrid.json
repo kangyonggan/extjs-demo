@@ -1,0 +1,26 @@
+{
+  "total": 500,
+  "items": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "123456",
+      "realname": "管理员",
+      "sex": "男"
+    },
+    {
+      "id": 2,
+      "username": "kangyonggan",
+      "password": "asdfghj",
+      "realname": "康永敢",
+      "sex": "男"
+    },
+    {
+      "id": 3,
+      "username": "xiaotiao",
+      "password": "utfutfukfu",
+      "realname": "马小跳",
+      "sex": "女"
+    }
+  ]
+}

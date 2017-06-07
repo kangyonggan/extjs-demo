@@ -1,0 +1,48 @@
+[
+  {
+    "id": 100,
+    "text": "系统",
+    "leaf": false,
+    "expanded": true,
+    "children": [
+      {
+        "id": 101,
+        "text": "用户管理",
+        "url": "userBaseContainer",
+        "leaf": true
+      },
+      {
+        "id": 102,
+        "text": "角色管理",
+        "url": "roleBaseContainer",
+        "leaf": true
+      },
+      {
+        "id": 103,
+        "text": "菜单管理",
+        "url": "menuBaseContainer",
+        "leaf": true
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "text": "数据",
+    "leaf": false,
+    "expanded": true,
+    "children": [
+      {
+        "id": 201,
+        "text": "字典维护",
+        "url": "dictionaryBaseContainer",
+        "leaf": true
+      },
+      {
+        "id": 202,
+        "text": "缓存管理",
+        "url": "cacheBaseContainer",
+        "leaf": true
+      }
+    ]
+  }
+]
